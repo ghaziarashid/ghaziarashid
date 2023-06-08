@@ -29,6 +29,6 @@ Education:
 Interests:
 In my free time, I enjoy exploring new technologies, participating in hackathons, and contributing to open-source projects. I am also an avid reader and love staying updated with the latest trends in the tech industry.
 
-GitHub Profile: [github.com/johndoe](https://github.com/johndoe)
+GitHub Profile: [github.com/ghaziarashid](https://github.com/ghaziarashid)
 
 Please note that the above information is a fictional example and can be customized according to your actual profile and experiences.
