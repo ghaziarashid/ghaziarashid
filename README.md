@@ -18,17 +18,13 @@ Experience:
   - Improved system performance and scalability through optimization techniques.
   - Co-lead of management team in GDSC(Google Developer's Students Club) (2022-23)
 
-- Open Source Contributor (2017 - Present)
-  - Contributed to various open-source projects on GitHub.
-  - Fixed bugs, added new features, and reviewed pull requests.
-  - Engaged in community discussions and provided support to fellow developers.
+Projects:
+
 
 Education:
 - Bachelor of Science in Computer Science, XYZ University, Year
 
 Interests:
-In my free time, I enjoy exploring new technologies, participating in hackathons, and contributing to open-source projects. I am also an avid reader and love staying updated with the latest trends in the tech industry.
+In my free time, I enjoy exploring new technologies and contributing to open-source projects. 
 
 GitHub Profile: [github.com/ghaziarashid](https://github.com/ghaziarashid)
-
-Please note that the above information is a fictional example and can be customized according to your actual profile and experiences.
